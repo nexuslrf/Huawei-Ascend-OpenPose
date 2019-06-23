@@ -46,7 +46,7 @@ Hope it would inspire more developers to create something more interesting for H
    * Paramiko for SSH connection with Ascend Atlas200DK.
    * threading/multiprocessing for building multi-level data processing pipeline.
 
- **Note**,  we can also replace PC with a **Raspberry Pi 3** with specified Python environment.
+ **Note**,  **Raspberry Pi 3** can also replace PC with specified Python environment.
 
 ----------------------
 
