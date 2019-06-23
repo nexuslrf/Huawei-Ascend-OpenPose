@@ -10,6 +10,8 @@ This project is motivated by our interest and Huawei ICT innovation task.
 
 Hope it would inspire more developers to create something more interesting for Huawei Ascend DK.
 
+![](figures/concept.jpg)
+
 ####  Demo (pic2 is also processed via a 2D to 3D pose [projection](<https://github.com/miu200521358/3d-pose-baseline-vmd>)):
 
 ![](figures/Demo.gif)
